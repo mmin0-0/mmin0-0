@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💻 I’m Publisher ...
-- 🙏 My GitHub has my portfolios(Please enjoy it :P)
+- 🙏 My GitHub has my portfolios (Please enjoy it :P)
 - ✨ I’m currently learning Front End ...가자 미지의 세계로...
 <!--
 **mmin0-0/mmin0-0** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
