@@ -1,4 +1,5 @@
 ## ✨welcome minyoung github✨
+🛠️ 다양한 기술을 시도하며, 효율적인 UI/UX 구현에 관심이 많습니다.  
 
 #### Portfolio URL: [min0-0portfolio.vercel.app](https://min0-0portfolio.vercel.app/)
 
