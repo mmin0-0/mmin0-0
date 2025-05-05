@@ -1,2 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=transform&height=300&section=header&text=Hi:D%20Minyoung%20Github&fontSize=40&fontColor=04d087)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=04D087&width=435&lines=I+am+a+publisher+for+three+years.;I+hope+for+a+frontend!;To+infinity+and+beyond!)](https://git.io/typing-svg)
+<div>
+  <p>✨minyoung github✨</p>
+  <hr />
+  <p>portfolio URL: <a href="https://min0-0portfolio.vercel.app/">min0-0portfolio.vercel.app</a></p>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmin0-0&theme=dark&layout=compact)
+</div>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmin0-0&hide=contribs,prs)
+
+
+
