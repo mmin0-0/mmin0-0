@@ -12,7 +12,7 @@
 <br />
 ![mmin0-0's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmin0-0&hide=contribs,prs&theme=dark)
 
-#### Studying...✏️
+### Studying...✏️
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
 ![ReactQuery](https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=ReactQuery&logoColor=white)
