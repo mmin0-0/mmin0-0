@@ -18,5 +18,4 @@
 ![ReactQuery](https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=ReactQuery&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white)
-![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white)
-
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
